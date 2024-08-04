@@ -1,1 +1,1 @@
-# st.ivanc.github.io
+# All puzzles in this repository were originally invented by CYM0424.
